@@ -1,2 +1,4 @@
 # Hangman-Game
-Simple hangman game utilizing JavaScript
+Classic Hangman game utilizing JavaScript
+
+Try to guess what video game console!
