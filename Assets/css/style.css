@@ -1,0 +1,13 @@
+body {
+	background-color: black;
+}
+
+p {
+	color: green;
+	text-align: center;
+}
+
+.box {
+	border: 3px dashed green;
+	padding-top: 15px;
+}
